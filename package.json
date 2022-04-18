@@ -1,0 +1,14 @@
+{
+  "name": "unicorn-bug",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint test.ts"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-plugin-unicorn": "^42.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+import { ChalkInstance } from "chalk";
